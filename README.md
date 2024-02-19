@@ -2,8 +2,7 @@
 
 Install the required libraries using pip:
 
-```bash
-pip install opencv-python mediapipe ```
+
 
 All joints:
 ![Alt text](./assets/info.png)
