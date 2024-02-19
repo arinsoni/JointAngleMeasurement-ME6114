@@ -6,6 +6,6 @@ Install the required libraries using pip:
 pip install opencv-python mediapipe
 
 All joints:
-![Alt text](./assets/info.jpg)
+![Alt text](./assets/info.png)
 
 
